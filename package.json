@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build && cd kanei0415.github.io && git add . && git commit -m \".\" && git push && cd ..",
+    "save": "git add . && git commit -m \".\" && git push",
     "lint": "eslint .",
     "preview": "vite preview"
   },

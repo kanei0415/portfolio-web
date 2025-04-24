@@ -2,6 +2,7 @@ import useLanguage from '@/hooks/useLanguage';
 import Card from './Card';
 import Paragraph from './Paragraph';
 import { ProjectType } from '../Project/Project';
+import MoreProjectDialog from '../Project/MoreProjectDialog';
 
 const Resume = () => {
   const { labelSet } = useLanguage();
@@ -72,6 +73,9 @@ const Resume = () => {
                   text={labelSet['resume.skills.language.description']}
                 />,
                 <Paragraph title={labelSet['resume.skills.project.title']}>
+                  <div className='flex flex-row justify-end'>
+                    <MoreProjectDialog />
+                  </div>
                   {projects.map((type, index) => {
                     return (
                       <a href={`#${type}`} key={index}>
