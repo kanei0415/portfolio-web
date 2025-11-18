@@ -54,7 +54,7 @@
   "resume.work_experience.company.wim": "주식회사 윔",
   "resume.work_experience.datetime.internship": "2022년 8 ~ 9월",
   "resume.work_experience.datetime.tainai": "2024년 4 ~ 6월",
-  "resume.work_experience.datetime.wim": "2022 9월 ~ 현재",
+  "resume.work_experience.datetime.wim": "2022 9월 ~ 2025 7월",
   "resume.work_experience.description.internship": "WIM에서 여름 인턴으로 근무하며 애자일 방법론을 기반으로 한 고객 대면 프로젝트에 참여하였습니다. 품질 관리와 QA를 포함한 전체 개발 라이프사이클을 주도하며, 외부 이해관계자와의 회의 및 프레젠테이션을 진행했습니다. 또한 팀 내 커뮤니케이션 효율성을 높이기 위해 첫 스프린트 기반 워크플로우를 도입하였고, React 및 React Native 개발자로서 기능 구현에도 직접 참여하였습니다.",
   "resume.work_experience.description.tainai": "TainAI에서 '러비더비' 앱 개발에 참여하여 마케팅 팀과 협업을 통해 유기적인 성장 기반으로 가입자 5만 명, 유료 사용자 4,000명의 KPI 달성에 기여했습니다. 다국어 지원 및 다중 통화 결제 시스템의 구현을 주도했으며, 사용자 피드백을 바탕으로 성인 대화 모드 도입과 인앱 통화 혼동 방지를 위한 UI 개선도 제안·반영했습니다. 또한 글로벌 팀의 일원으로서, 일본어와 영어를 모두 지원하는 모바일 번역 시스템의 배포에도 기여했습니다.",
   "resume.work_experience.description.wim": "WIM에서 React 및 React Native 기반의 프론트엔드 개발과 PM 역할을 맡아 외주 프로젝트를 진행하였으며, 경북대학교 병원 및 성주시청에 제품을 납품한 경험이 있습니다. Spring Boot를 활용한 풀스택 개발 경험이 있으며, PGVector 기반 RAG 구조를 이용해 자연어 처리를 수행하는 에이전틱 시스템을 설계·구현한 경험이 있습니다. 또한 Docker와 TeamCity를 활용해 CI 파이프라인을 관리하고 있으며, 백엔드 2명, 프론트엔드 3명, 디자이너 1명으로 구성된 팀의 PM 역할을 수행하였습니다.",

@@ -54,7 +54,7 @@
   "resume.work_experience.company.wim": "株式会社ウィム",
   "resume.work_experience.datetime.internship": "2022年8～9月",
   "resume.work_experience.datetime.tainai": "2024年4～6月",
-  "resume.work_experience.datetime.wim": "2022 9月〜現在",
+  "resume.work_experience.datetime.wim": "2022 9月〜 2025 7月",
   "resume.work_experience.description.internship": "WIMでの夏季インターンシップでは、アジャイル手法を用いたクライアント向けプロジェクトに参加しました。QAおよび品質管理を含む製品の全体的な開発ライフサイクルを主導し、外部ステークホルダーとの会議やプレゼンテーションも担当しました。さらに、週次ミーティングにおけるチーム内のコミュニケーション効率を高めるため、初のスプリントベースのワークフローを導入し、ReactおよびReact Native開発者として実装にも携わりました。",
   "resume.work_experience.description.tainai": "TainAIにて、モバイルアプリ「ラビダビ」の開発に携わり、マーケティングチームと連携して登録者数5万人、有料ユーザー数4,000人というKPIの達成に貢献しました。多言語対応および多通貨決済システムの実装を主導し、ユーザーの声を反映して成人向け会話モードの導入や、アプリ内通貨と外貨の混乱を防ぐUI改善を提案・実施しました。さらに、グローバルチームの一員として、日本語と英語の両言語に対応する翻訳ソリューションの導入にも貢献しました。",
   "resume.work_experience.description.wim": "WIMでは、ReactおよびReact Nativeを用いたフロントエンド開発に加え、PMとして外部委託プロジェクトを進行しました。慶北大学病院および星州（ソンジュ）市庁などへのプロダクト納品経験があります。Spring Bootを使ったフルスタック開発を行い、PGVectorを基盤としたRAG構成による自然言語処理エージェントシステムの設計・実装も経験しました。また、DockerとTeamCityを活用してCIパイプラインの管理を行い、バックエンド2名、フロントエンド3名、デザイナー1名のチームでPMを担当しました。",
